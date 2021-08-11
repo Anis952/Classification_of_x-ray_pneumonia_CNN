@@ -1,0 +1,1 @@
+# Classification_of_x-ray_pneumonia_CNN
